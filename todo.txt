@@ -1,0 +1,5 @@
+Mod icons as their keystroke letters in shape of a laptop key with full mod name written at the bottom beneath the button:
+ |^^^^^|
+ |  A  |
+ |_____|
++HardRock
