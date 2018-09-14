@@ -1,5 +1,13 @@
-Mod icons as their keystroke letters in shape of a laptop key with full mod name written at the bottom beneath the button:
- |^^^^^|
- |  A  |
- |_____|
-+HardRock
+To fix
+
+KatouMegumi:
+ranking-winner is missing
+selection-mode icons are not cenetered
+Remake rank icons (in ranking menu)
+Remake mod icons
+Bigger hit accuracy icons on ranking panel (to match with the score font size) (done)
+song selection menu buttons fix (2/3 done)
+
+Husa:
+mod icons are too tiny/ugly
+warningarrow is ugly
