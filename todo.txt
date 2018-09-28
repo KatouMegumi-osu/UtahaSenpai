@@ -1,13 +1,15 @@
 To fix
-
+(complaint list and people who complained)
 KatouMegumi:
-ranking-winner is missing
-selection-mode icons are not cenetered
-Remake rank icons (in ranking menu)
+ranking-winner is missing (done)
+selection-mode icons are not cenetered (done)
+Remake rank icons (in ranking menu) (done)
 Remake mod icons
 Bigger hit accuracy icons on ranking panel (to match with the score font size) (done)
-song selection menu buttons fix (2/3 done)
+song selection menu buttons fix (1/3 done)
+fix inputoverlay (done)
+Ready and go missing {done}
 
 Husa:
-mod icons are too tiny/ugly
-warningarrow is ugly
+mod icons are too tiny/ugly 
+warningarrow is ugly (done)
