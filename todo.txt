@@ -13,3 +13,15 @@ Ready and go missing {done}
 Husa:
 mod icons are too tiny/ugly 
 warningarrow is ugly (done)
+
+
+
+
+1.2
+
+KatouMegumi:
+Fix match-winner position
+
+Pandema:
+Add normal style hitcircles (as an alternative bonus) (done)
+(due to that, also fix combo colors) (also done, also applied to Hamachi-style too)
