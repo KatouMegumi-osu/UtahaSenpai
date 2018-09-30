@@ -20,7 +20,7 @@ warningarrow is ugly (done)
 1.2
 
 KatouMegumi:
-Fix match-winner position
+Fix ranking-winner position (done)
 Add custom player name hp bars (done)
 
 Pandema:
