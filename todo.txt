@@ -21,6 +21,7 @@ warningarrow is ugly (done)
 
 KatouMegumi:
 Fix match-winner position
+Add custom player name hp bars (done)
 
 Pandema:
 Add normal style hitcircles (as an alternative bonus) (done)
