@@ -26,3 +26,15 @@ Add custom player name hp bars (done)
 Pandema:
 Add normal style hitcircles (as an alternative bonus) (done)
 (due to that, also fix combo colors) (also done, also applied to Hamachi-style too)
+
+
+
+
+1.3
+
+KatouMegumi:
+Tweak stuff in skin.ini (Done)
+Make followpoint images longer (Dismissed)
+inputoverlay-background captions (Done)
+Tweak hp bar "strip"	(Done)
+Taiko mode? (and potentioonally all other 2)
