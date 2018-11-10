@@ -1,0 +1,4 @@
+bar width = 94/2=52
+separator width = 1
+judge start = 0 (complicated story here)
+hit alignment = 245/2=123	
