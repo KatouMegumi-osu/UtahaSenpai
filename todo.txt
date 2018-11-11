@@ -42,7 +42,9 @@ Rearranged hitcircle colors (Done)
 Colored cursors (Done)
     unify into one psd
 	
-Mania - defalt 3d lane stuff
+Mania - defalt 3d lane stuff (4k done)
+Mania - mod icons
+Mania - the rest up to 9k
 
 KemZii:
 Ctb - circle fruits and generic catcher (Done)
