@@ -45,7 +45,7 @@ Colored cursors (Done)
 Mania - defalt 3d lane stuff (4k done)
 Mania - mod icons (done)
 Mania - the rest up to 9k (done)
-Mania - mania icons that will actually display in ranking window
+Mania - mania icons that will actually display in ranking window (done)
 
 KemZii:
 Ctb - circle fruits and generic catcher (Done)
