@@ -40,7 +40,7 @@ Tweak hp bar "strip" (Done)
 Taiko mode? (and potentionally all other 2) (Done)
 Rearranged hitcircle colors (Done)
 Colored cursors (Done)
-    unify into one psd
+    unify into one psd (Done)
 	
 Mania - defalt 3d lane stuff (4k done)
 Mania - mod icons (done)
