@@ -49,7 +49,7 @@ Mania - mania icons that will actually display in ranking window (done)
 Mania - warning arrow (Done)
 
 Change score digits to not use such absurd ScoreOverlap (done)
-Adjust scorebar-colour to fit scorebar-bg
+Adjust scorebar-colour to fit scorebar-bg (done)
 redo taiko hitcircles (done)
 
 KemZii:
