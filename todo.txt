@@ -49,9 +49,15 @@ Mania - mania icons that will actually display in ranking window (done)
 Mania - warning arrow (Done)
 
 Change score digits to not use such absurd ScoreOverlap (done)
+Adjust scorebar-colour to fit scorebar-bg
+redo taiko hitcircles (done)
 
 KemZii:
 Ctb - circle fruits and generic catcher (Done)
     pic: Megumi's expression is priceless. I kinda want to use that. Even though I planned to use Tomoya's. (KatouMegumi) (Used Tomoya instead, because it's funny.) (THAT BOI GOTTA CHANGE HIS PHONE WALLPAPER)
+	
 cynplytholowazy:
 Taiko - miss and 100 are distracting (done)
+
+Aiseca:
+Ctb - dimmer fruits for alternative files (may dismiss it)
