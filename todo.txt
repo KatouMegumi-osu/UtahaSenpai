@@ -61,3 +61,15 @@ Taiko - miss and 100 are distracting (done)
 
 Aiseca:
 Ctb - dimmer fruits for alternative files (may dismiss it)
+
+
+
+
+1.4
+
+Yoomara:
+Ctb - actually dimmer fruits, since it's too bright.	
+
+KatouMegumi:
+New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed)
+New hitcircles, thin and full
