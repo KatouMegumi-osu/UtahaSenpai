@@ -1,0 +1,1 @@
+To properly install these, replace the value in "HitCircleOverlap" (located in skin.ini) to "8"
