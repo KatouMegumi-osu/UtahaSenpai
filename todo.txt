@@ -74,5 +74,5 @@ KatouMegumi:
 New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed) (actually done long ago)
 New hitcircles, thin and full (3/3 done)
 audio (done?)
-New mod icons
+New mod icons (in progress)
 New song selection menu buttons
