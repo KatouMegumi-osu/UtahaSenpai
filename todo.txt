@@ -76,4 +76,4 @@ New hitcircles, thin and full (3/3 done)
 audio (done?)
 New mod icons (in progress)
 New song selection menu buttons
-New mania buttons
+New mania buttons (in progress)
