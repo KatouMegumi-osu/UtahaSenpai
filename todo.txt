@@ -75,5 +75,5 @@ New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed) (a
 New hitcircles, thin and full (3/3 done)
 audio (done?)
 New mod icons (in progress)
-New song selection menu buttons
+New song selection menu buttons 
 New mania buttons (in progress)
