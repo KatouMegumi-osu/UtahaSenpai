@@ -68,7 +68,7 @@ Ctb - dimmer fruits for alternative files (may dismiss it)
 1.4
 
 Yoomara:
-Ctb - actually dimmer fruits, since it's too bright.	
+Ctb - actually dimmer fruits, since it's too bright. (done)
 
 KatouMegumi:
 New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed) (actually done long ago)
@@ -76,3 +76,4 @@ New hitcircles, thin and full (3/3 done)
 audio (done?)
 New mod icons (in progress)
 New song selection menu buttons
+New mania buttons
