@@ -78,11 +78,11 @@ New mod icons (in progress)
 New song selection menu buttons  
 New mania buttons (in progress)
 SD resolution in git repo (will also be easier to indicate changes through tortoisegit)
-Taiko: Opaque taiko notes as bonus
 
-kochi_yt: 
+kochi_yh (Rachel): 
 Change warningarrow to something better looking
 Alternative reverse arrows (perhaps replace the current one too) (A transparent reverse arrow like in kamui was requested specifically)
 Fix the pause/fail menu arrow to something else
 Mania: Long notes blend in with bright backgrounds (either change how they look or dim the background for lanes)
 Taiko: Fix taiko-bar-rigth width on 4:3 
+Taiko: Opaque taiko notes as bonus
