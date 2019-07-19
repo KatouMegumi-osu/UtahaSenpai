@@ -84,5 +84,5 @@ Change warningarrow to something better looking (Done)
 Alternative reverse arrows (perhaps replace the current one too) (A transparent reverse arrow like in kamui was requested specifically) (Done)
 Fix the pause/fail menu arrow to something else
 Mania: Long notes blend in with bright backgrounds (either change how they look or dim the background for lanes)
-Taiko: Fix taiko-bar-rigth width on 4:3 
+Taiko: Fix taiko-bar-rigth width on 4:3 (Done)
 Taiko: Opaque taiko notes as bonus
