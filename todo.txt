@@ -76,8 +76,8 @@ New hitcircles, thin and full (3/3 done)
 voice lines (done?)
 New mod icons (in progress)
 New song selection menu buttons  
-New mania buttons (in progress)
-SD resolution in git repo (will also be easier to indicate changes through tortoisegit)
+New mania buttons (in progress) 
+SD resolution in git repo (will also be easier to indicate changes through tortoisegit) (Done)
 
 kochi_yh (Rachel): 
 Change warningarrow to something better looking (Done)
