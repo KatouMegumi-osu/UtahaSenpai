@@ -73,7 +73,16 @@ Ctb - actually dimmer fruits, since it's too bright. (done)
 KatouMegumi:
 New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed) (actually done long ago)
 New hitcircles, thin and full (3/3 done)
-audio (done?)
+voice lines (done?)
 New mod icons (in progress)
-New song selection menu buttons 
+New song selection menu buttons  
 New mania buttons (in progress)
+SD resolution in git repo (will also be easier to indicate changes through tortoisegit)
+Taiko: Opaque taiko notes as bonus
+
+kochi_yt: 
+Change warningarrow to something better looking
+Alternative reverse arrows (perhaps replace the current one too) (A transparent reverse arrow like in kamui was requested specifically)
+Fix the pause/fail menu arrow to something else
+Mania: Long notes blend in with bright backgrounds (either change how they look or dim the background for lanes)
+Taiko: Fix taiko-bar-rigth width on 4:3 
