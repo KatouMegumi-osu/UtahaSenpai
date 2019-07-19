@@ -85,4 +85,4 @@ Alternative reverse arrows (perhaps replace the current one too) (A transparent 
 Fix the pause/fail menu arrow to something else
 Mania: Long notes blend in with bright backgrounds (either change how they look or dim the background for lanes)
 Taiko: Fix taiko-bar-rigth width on 4:3 (Done)
-Taiko: Opaque taiko notes as bonus
+Taiko: Opaque taiko notes as bonus (Dismissed. End user can just delete the files or move them somewhere else so osu! renders the default taiko note color overlay.)
