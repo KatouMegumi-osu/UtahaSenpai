@@ -73,9 +73,9 @@ Ctb - actually dimmer fruits, since it's too bright. (done)
 KatouMegumi:
 New overlay in gameplay menu (also patch up mania for new hp bar) (dismissed) (actually done long ago)
 New hitcircles, thin and full (3/3 done)
-voice lines (done?)
+voice lines (done?) 
 New mod icons (in progress)
-New song selection menu buttons  
+New song selection menu buttons  (in progress)
 New mania buttons (in progress) 
 SD resolution in git repo (will also be easier to indicate changes through tortoisegit) (Done)
 
@@ -86,3 +86,6 @@ Fix the pause/fail menu arrow to something else (Done)
 Mania: Long notes blend in with bright backgrounds (either change how they look or dim the background for lanes) (Done)
 Taiko: Fix taiko-bar-rigth width on 4:3 (Done)
 Taiko: Opaque taiko notes as bonus (Dismissed. End user can just delete the files or move them somewhere else so osu! renders the default taiko note color overlay.)
+
+Gliitch:
+make small silver S and SS asterisk smaller
