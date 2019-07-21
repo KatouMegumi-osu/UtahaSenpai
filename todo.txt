@@ -76,7 +76,7 @@ New hitcircles, thin and full (3/3 done)
 voice lines (done?) 
 New mod icons (in progress)
 New song selection menu buttons  (in progress)
-New mania buttons (in progress) 
+New mania buttons (Done)
 SD resolution in git repo (will also be easier to indicate changes through tortoisegit) (Done)
 
 kochi_yh (Rachel): 
